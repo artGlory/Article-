@@ -1,3 +1,6 @@
+```java
+package com.spring.commonUtils;
+
 class ObjectWaitPkThreadSleep {
 
     /**
@@ -87,3 +90,5 @@ class ObjectWaitPkThreadSleep {
     }
 }
 
+
+```
